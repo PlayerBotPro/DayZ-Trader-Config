@@ -9,5 +9,6 @@
 78901234567890123	// Admin No1
 78901234567890123	// Admin No2
 78901234567890123	// Admin No3
+76561198070368733   // Slingshot
 
 <FileEnd>			// This has to be on the End of this File and is very importand!
