@@ -96,7 +96,7 @@
 <TraderMarkerSafezone>	0
 
 <Object> 			SurvivorF_Frida
-<ObjectPosition>	95.32,	288.60,	6271.28
+<ObjectPosition>	6495.32,	288.60,	6271.28
 <ObjectOrientation>	60, 0,			0
 <ObjectAttachment>	ThickFramesGlasses
 <ObjectAttachment>	WomanSuit_Black
