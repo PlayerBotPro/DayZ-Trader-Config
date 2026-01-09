@@ -604,6 +604,7 @@
 		HuntingOptic,			*,		1000,	550
 		PSO1Optic,				*,		1100,	600	
 		PSO11Optic,				*,		1400,	840
+		PSO6Optic,				*,		1500,	900
 		KazuarOptic,			*,		2200,	1400
 		StarlightOptic,			*,		2200,	1400
 	
