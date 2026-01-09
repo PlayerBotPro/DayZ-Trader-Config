@@ -2,22 +2,22 @@
 //Marker 5
 <Trader> Vehicles Trader
 	<Category> Vehicles
-		OffroadHatchback,			VNK,		14000,	8000	// VNK gives no key, V gives a key. Recommended to not use the vehicle keys. Use MuchCarKey or other mods for locking vehicles.
-		OffroadHatchback_Blue,		VNK,		14000,	8000
-		OffroadHatchback_White,		VNK,		14000,	8000
-		Hatchback_02,				VNK,		16000,	9600
-		Hatchback_02_Blue,			VNK,		16000,	9600
-		Hatchback_02_Black,			VNK,		16000,	9600
-		Sedan_02,					VNK,		18000,	10200
-		Sedan_02_Red,				VNK,		18000,	10200
-		Sedan_02_Grey,				VNK,		18000,	10200
-		CivilianSedan,				VNK,		20000,	11000
-		CivilianSedan_Wine,			VNK,		20000,	11000
-		CivilianSedan_Black,		VNK,		20000,	11000
-		Offroad_02,					VNK,		50000,	30000
-		Truck_01_Covered,			VNK,		50000,	30000
-		Truck_01_Covered_Blue,		VNK,		50000,	30000
-		Truck_01_Covered_Orange,	VNK,		50000,	30000
+		OffroadHatchback,			VNK,		-1,	8000	// VNK gives no key, V gives a key. Recommended to not use the vehicle keys. Use MuchCarKey or other mods for locking vehicles.
+		OffroadHatchback_Blue,		VNK,		-1,	8000
+		OffroadHatchback_White,		VNK,		-1,	8000
+		Hatchback_02,				VNK,		-1,	9600
+		Hatchback_02_Blue,			VNK,		-1,	9600
+		Hatchback_02_Black,			VNK,		-1,	9600
+		Sedan_02,					VNK,		-1,	10200
+		Sedan_02_Red,				VNK,		-1,	10200
+		Sedan_02_Grey,				VNK,		-1,	10200
+		CivilianSedan,				VNK,		-1,	11000
+		CivilianSedan_Wine,			VNK,		-1,	11000
+		CivilianSedan_Black,		VNK,		-1,	11000
+		Offroad_02,					VNK,		-1,	30000
+		Truck_01_Covered,			VNK,		-1,	30000
+		Truck_01_Covered_Blue,		VNK,		-1,	30000
+		Truck_01_Covered_Orange,	VNK,		-1,	30000
 	
 	<Category> Vehicle Parts
 		HeadlightH7_Box,					*,		30,		15
