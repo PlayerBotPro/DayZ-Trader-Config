@@ -97,6 +97,17 @@
 		Guts,					*,		2,		1
 		SmallGuts,				*,		2,		1
 		ChickenFeather,			*,		2,		1
+		BearPelt,				*,		2000,   2000
+		CowPelt,				*,		50,		50
+		DeerPelt,				*,		50,		50
+		FoxPelt,				*,		100,	100
+		GoatPelt,				*,		50,		50
+		PigPelt,				*,		50,		50
+		RabbitPelt,				*,		20,		20
+		ReindeerPelt,			*,		200,	200
+		SheepPelt,				*,		50,		50
+		WildboarPelt,			*,		100,	100
+		WolfPelt,				*,		500,	500
 		
 	<Category> Drinks
 		SodaCan_Cola, 			*,		2, 		1
