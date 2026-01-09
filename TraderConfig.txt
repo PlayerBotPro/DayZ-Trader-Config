@@ -848,8 +848,6 @@
 
 	<Category> Masks
 		SurgicalMask,			*,		15,		3
-		BandanaMask_PolkaPattern,*,		25,		6
-		BandanaMask_RedPattern,	*,		25,		6
 		EyeMask_NewYears,*,		25,		6
 		EyeMask_Red,	*,		25,		6
 		EyeMask_Valentines,*,		25,		6
@@ -860,14 +858,8 @@
 		EyeMask_Dead,	*,		25,		6
 		MimeMask_Female,	*,		50,		12
 		MimeMask_Male,	*,		50,		12
-		BandanaMask_BlackPattern,*,		25,		6
-		BandanaMask_GreenPattern,*,		30,		8
-		BandanaMask_CamoPattern,*,		35,		10
 		NioshFaceMask,			*,		40,		10
 		HockeyMask,				*,		40,		10
-		HoxtonMask,				*,		40,		10
-		WolfMask,				*,		40,		10
-		DallasMask,				*,		40,		10
 		Balaclava3Holes_Blue,	*,		50,		12
 		Balaclava3Holes_Beige,	*,		50,		12
 		Balaclava3Holes_Black,	*,		55,		13
@@ -922,8 +914,6 @@
 		Sweater_Blue,			*,		20,		5
 		Sweater_Gray,			*,		20,		5
 		Sweater_Green,			*,		25,		6
-		Hoodie_DrJ0nes,			*,		30,		6
-		Hoodie_GraffitiTiles,	*,		30,		6
 		Hoodie_Red,				*,		30,		6
 		Hoodie_Blue,			*,		30,		6
 		Hoodie_Grey,			*,		30,		6
@@ -1323,7 +1313,7 @@
 		AliceBag_Green,			*,		400,	150
 		AliceBag_Camo,			*,		500,	220
 
-	//<Category> Handmade
+	<Category> Handmade
 		LeatherGloves_Beige,	*,		1,		1
 		LeatherGloves_Black,	*,		1,		1
 		LeatherGloves_Brown,	*,		1,		1
