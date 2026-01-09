@@ -235,7 +235,7 @@
 		BearTrap,				*,		50,		30
 	
 	<Category> Hardware Supplies
-		Paper,					*,		1,		0
+		Paper,					*,		1,		1
 		Pen_Blue,				*,		2,		1
 		Rope,					*,		4,		1
 		TannedLeather,			*,		4,		1
