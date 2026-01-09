@@ -1349,6 +1349,7 @@
 		AliceBag_Black,			*,		400,	150
 		AliceBag_Green,			*,		400,	150
 		AliceBag_Camo,			*,		500,	220
+		TM_Wallet,				*,		500,	500
 
 	<Category> Handmade
 		LeatherGloves_Beige,	*,		1,		1
